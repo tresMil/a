@@ -1,0 +1,654 @@
+#EXTM3U
+#EXTINF:-1,ENTRETENIMIENTO:Azteca Uno (Mexico)
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,MEXICO:Aprende TV Mexico City
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Azteca Mas (Mexico)
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Azteca 7 (Mexico)
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+
+
+
+#EXTINF:-1,MEXICO:Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1,ENTRETENIMIENTO:Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Canal Once (Mexico)
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,AZTECA 13 G67
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TV Más G67
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,Azteca UNO
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CINE Y SERIES:Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,14 TV HD
+http://155.4.160.181:1935/fjwebb/liveWebb/playlist.m3u8
+
+#EXTINF:-1,15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1,ESPAÑA:HISPAN TV
+http://107.189.40.49:1935/live/hispantv/playlist.m3u8
+
+#EXTINF:-1,Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Bolivia TV (Bolivia)
+http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+
+#EXTINF:-1,Latinos:TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1,ENTRETENIMIENTO:Chilevision (Chile)
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1,CNN (Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,CHILE:NIU TV | HD
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1,NOTICIAS:CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,DEPORTES:CDO (Chile)
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:UMAG TV (Chile)
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Carolina TV (Chile)
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Mundo Auto TV (Chile)
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+
+#EXTINF:-1,Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF:-1,RNN Canal 27
+http://ss6.domint.net:2042/rnn_str/canal27/chunklist_w1261449614.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telesistema (Rep. Dominicana)
+http://69.64.69.92:1935/hits-tv-ch11app/studio/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telemicro (Rep. Dominicana)
+http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telenord 12 (Rep. Dominicana)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+
+#EXTINF:-1,ENTRETENIMIENTO:Color Vision (Rep. Dominicana)
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+
+#EXTINF:-1,Digital 15
+http://bit.ly/2CLgJ6u
+
+#EXTINF:-1,Maimón TV Canal 3 premiumtv.or
+http://ss9.domint.net:1990/mtv_str/maimon/playlist.m3u8
+
+#EXTINF:-1,DOMINICANA:CANAL 4
+http://45.35.46.43:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1,DOMINICANA:CANAL 5
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+
+#EXTINF:-1,DOMINICANA:CANAL 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+
+#EXTINF:-1,DOMINICANA:CANAL 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1,DOMINICANA:XTREMO TV
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telpin Teven (Argentina)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:PakaPaka (Argentina)
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Canal 3 (Argentina)
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1,DEPORTES:DeporTV (Argentina)
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Canal 4 (Argentina)
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1,CINE Y SERIES:Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+
+#EXTINF:-1,TELEFE
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+
+#EXTINF:-1,Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1,Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 2 Telpin Tv
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,TDC
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+#EXTINF:-1,Nacional:Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+
+#EXTINF:-1,Nacional:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1,Nacional:TDC Firmat Santa Fe
+http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8
+
+#EXTINF:-1,Nacional:Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+
+#EXTINF:-1,Nacional:Canal 4 Esquel
+http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
+
+#EXTINF:-1,Nacional:XFN Canal 41
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+
+#EXTINF:-1,group-title="Argentina"
+http://192.99.46.56:1935/envivo/marcos/playlist.m3u8
+
+#EXTINF:-1,group-title="Argentina"
+http://www.coninfo.net:1935/13max/live/.m3u8
+
+#EXTINF:-1,Deportes:Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1,13 Max Digital
+http://www.coninfo.net:1935/13max/live/playlist.m3u8
+
+#EXTINF:-1,TvES
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+
+#EXTINF:-1,TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+
+#EXTINF:-1,UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1,INTERNACIONAL:TC HD ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,INTERNACIONAL:TC HD ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:TV Sur (Costa Rica)
+http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:HBTV Ticavision (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,SUPER 5 TV COSTA RICA
+http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8
+
+#EXTINF:-1,TV Sur 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1,Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1,CANAL 9
+http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w1185370442.m3u8
+
+#EXTINF:-1,TeleUno TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1,RCN Colombia
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1,Cali Tv
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:RCN (Colombia)
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+
+#EXTINF:-1,COLOMBIA Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1,COLOMBIA RCN - Colombia | HD
+http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8
+
+#EXTINF:-1,TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:TV Peru (Peru)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+
+#EXTINF:-1,ENTRETENIMIENTO:Digital TV (Peru)
+http://uvodscp-lh.akamaihd.net:80/i/ped001rtmp_1@460473/master.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Capital TV (Peru)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,NOTICIAS:TV Noticias 7.3 (Peru)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1,DEPORTES:Monterrico TV (Peru)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1,PERU:America TV  | SD
+http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+
+#EXTINF:-1,PERU:Panamericana TV | SD
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
+
+#EXTINF:-1,CANAL 9 teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,Canal BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CTV Peru
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1,Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+
+
+#EXTINF:-1,Mega TV Araquipa
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:TVN (Panama)
+https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpzo8bu4cDFPiloPhk9oIC/cn/342e43a0bc384c2f8f81652fa15f3949.m3u8?oosm=1
+
+#EXTINF:-1,ENTRETENIMIENTO:RPC TV (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1,DEPORTES:COS (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,DEPORTES:COS FC (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Telemetro (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:NexTV (Panama)
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Eco TV (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/eco-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Wow TV (El Salvador)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1,ENTRETENIMIENTO:TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1,ENTRETENIMIENTO:Teleceiba (Honduras)
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1,CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1,RT
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+
+#EXTINF:-1,TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1,TOP Latino TV www.premiumtv.org
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,MUSICA:Radio Montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,MUSICA:Cool 103.7 (Argentina)
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Colosal TV (Costa Rica)
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Futuro 88.9 (Chile)
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Hit TV (Espana)
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1,MUSICA:La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,MUSICA:OyeTV (Panama)
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Play Channel (Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8
+
+#EXTINF:-1,MUSICA:Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Power HD (Argentina)
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Soy Rock (Argentina)
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1,MUSICA:Teleritmo (Mexico)
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+
+#EXTINF:-1,MUSICA:Urban 106.1 (Argentina)
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+
+#EXTINF:-1,UNIVISION EAST
+http://p4.giffy.be:8080/live/coke123/coke123/31155.m3u8
+
+#EXTINF:-1,UNIVISION WEST
+http://p4.giffy.be:8080/live/coke123/coke123/31154.m3u8
+
+#EXTINF:-1,GALAVISION.
+http://p4.giffy.be:8080/live/coke123/coke123/31153.m3u8
+
+#EXTINF:-1,MEGA TV
+http://p4.giffy.be:8080/live/coke123/coke123/31870.m3u8
+
+#EXTINF:-1,TELEMUNDO EAST.
+http://p4.giffy.be:8080/live/coke123/coke123/31151.m3u8
+
+#EXTINF:-1,TELEMUNDO WEST.
+http://p4.giffy.be:8080/live/coke123/coke123/31868.m3u8
+
+#EXTINF:-1,UNIMAS
+http://p4.giffy.be:8080/live/coke123/coke123/31150.m3u8
+
+#EXTINF:-1,NBC UNIVERSO.
+http://p4.giffy.be:8080/live/coke123/coke123/31149.m3u8
+
+#EXTINF:-1,DISCOVERY ESP
+http://p4.giffy.be:8080/live/coke123/coke123/31865.m3u8
+
+#EXTINF:-1,CNN ESPANOL
+http://p4.giffy.be:8080/live/coke123/coke123/31864.m3u8
+
+#EXTINF:-1,CINELATINO
+http://p4.giffy.be:8080/live/coke123/coke123/31863.m3u8
+
+#EXTINF:-1,CENTRO AMERICA TV
+http://p4.giffy.be:8080/live/coke123/coke123/31862.m3u8
+
+#EXTINF:-1,TELECENTRO
+http://p4.giffy.be:8080/live/coke123/coke123/31861.m3u8
+
+#EXTINF:-1,HOLA TV
+http://p4.giffy.be:8080/live/coke123/coke123/31860.m3u8
+
+#EXTINF:-1,NAT GEOMUNDO
+http://p4.giffy.be:8080/live/coke123/coke123/31859.m3u8
+
+#EXTINF:-1,VME
+http://p4.giffy.be:8080/live/coke123/coke123/31858.m3u8
+
+#EXTINF:-1,HISTORY ESP
+http://p4.giffy.be:8080/live/coke123/coke123/35219.m3u8
+
+#EXTINF:-1,PASIONES
+http://p4.giffy.be:8080/live/coke123/coke123/35232.m3u8
+
+#EXTINF:-1,CN SONY
+http://p4.giffy.be:8080/live/coke123/coke123/35231.m3u8
+
+#EXTINF:-1,VIENDO MOVIES
+http://p4.giffy.be:8080/live/coke123/coke123/35230.m3u8
+
+#EXTINF:-1,HBO ESP
+http://p4.giffy.be:8080/live/coke123/coke123/35228.m3u8
+
+
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://p4.giffy.be:8080/live/coke123/coke123/35226.m3u8
+
+
+
+#EXTINF:-1,TYC SPOR.m3u8
+http://p4.giffy.be:8080/live/coke123/coke123/35221.m3u8
+
+#EXTINF:-1,NTN 24
+http://p4.giffy.be:8080/live/coke123/coke123/35349.m3u8
+
+#EXTINF:-1,CHI | TV CHILE
+http://p4.giffy.be:8080/live/coke123/coke123/35350.m3u8
+
+#EXTINF:-1,VENEVISION
+http://p4.giffy.be:8080/live/coke123/coke123/46960.m3u8
+
+
+#EXTINF:-1,FOX LIFE
+http://p4.giffy.be:8080/live/coke123/coke123/46957.m3u8
+
+#EXTINF:-1,TV ESPANA
+http://p4.giffy.be:8080/live/coke123/coke123/46953.m3u8
+
+#EXTINF:-1,LAT | INVESTIGATION DISCOVERY
+http://p4.giffy.be:8080/live/coke123/coke123/35133.m3u8
+
+#EXTINF:-1,LAT | DEPORTES Y EVENTOS ESPECIALES
+http://p4.giffy.be:8080/live/coke123/coke123/32367.m3u8
+
+#EXTINF:-1,LAT | UNIVISION
+http://p4.giffy.be:8080/live/coke123/coke123/32306.m3u8
+
+#EXTINF:-1,LAT | TELEMUNDO
+http://p4.giffy.be:8080/live/coke123/coke123/32307.m3u8
+
+#EXTINF:-1,LAT | TELEMUNDO INTERNACIONAL
+http://p4.giffy.be:8080/live/coke123/coke123/32303.m3u8
+
+#EXTINF:-1,LAT | UNIMAS
+http://p4.giffy.be:8080/live/coke123/coke123/32302.m3u8
+
+#EXTINF:-1,LAT | BEIN SPOR.m3u8
+http://p4.giffy.be:8080/live/coke123/coke123/32294.m3u8
+
+#EXTINF:-1,LAT | DE PELICULA
+http://p4.giffy.be:8080/live/coke123/coke123/32304.m3u8
+
+#EXTINF:-1,GOL
+http://p4.giffy.be:8080/live/coke123/coke123/32295.m3u8
+
+#EXTINF:-1,LAT | HBO
+http://p4.giffy.be:8080/live/coke123/coke123/32305.m3u8
+
+
+#EXTINF:-1,LAT | RT NOTICIAS
+http://p4.giffy.be:8080/live/coke123/coke123/32297.m3u8
+
+#EXTINF:-1,LAT | TELECINCO
+http://p4.giffy.be:8080/live/coke123/coke123/32296.m3u8
+
+#EXTINF:-1,LAT | TELENOVELAS
+http://p4.giffy.be:8080/live/coke123/coke123/32299.m3u8
+
+#EXTINF:-1,LAT | TNT SERIES HD
+http://p4.giffy.be:8080/live/coke123/coke123/32298.m3u8
+
+#EXTINF:-1,LAT | WARNER CHANNEL HD
+http://p4.giffy.be:8080/live/coke123/coke123/32301.m3u8
+
+#EXTINF:-1,FUTBOL ECUATORIANO 2
+http://p4.giffy.be:8080/live/coke123/coke123/44339.m3u8
+
+#EXTINF:-1,ECU | CNT SPOR.m3u8 1
+http://p4.giffy.be:8080/live/coke123/coke123/32289.m3u8
+
+#EXTINF:-1,ECU | ECUADOR TV
+http://p4.giffy.be:8080/live/coke123/coke123/32290.m3u8
+
+#EXTINF:-1,ECU | ECUADOR TV.. ( op.2)
+http://p4.giffy.be:8080/live/coke123/coke123/35223.m3u8
+
+#EXTINF:-1,ECU | ECUAVISA
+http://p4.giffy.be:8080/live/coke123/coke123/32287.m3u8
+
+#EXTINF:-1,ECU | ECUAVISA.. INT
+http://p4.giffy.be:8080/live/coke123/coke123/35347.m3u8
+
+#EXTINF:-1,ECU | OROMAR TV
+http://p4.giffy.be:8080/live/coke123/coke123/32282.m3u8
+
+#EXTINF:-1,ECU | R.m3u8
+http://p4.giffy.be:8080/live/coke123/coke123/32286.m3u8
+
+#EXTINF:-1,ECU | TC HD
+http://p4.giffy.be:8080/live/coke123/coke123/32285.m3u8
+
+#EXTINF:-1,ECU | TC MI CANAL
+http://p4.giffy.be:8080/live/coke123/coke123/32284.m3u8
+
+#EXTINF:-1,ECU | TELEAMAZONAS
+http://p4.giffy.be:8080/live/coke123/coke123/32283.m3u8
+
+#EXTINF:-1,EUROSPORT 1 HD
+http://p4.giffy.be:8080/live/coke123/coke123/21727.m3u8
+
+#EXTINF:-1,NFL NETWORK .
+http://p4.giffy.be:8080/live/coke123/coke123/27792.m3u8
+
+#EXTINF:-1,SKY SPORT MAIN EVENT
+http://p4.giffy.be:8080/live/coke123/coke123/21743.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 CRICKET
+http://p4.giffy.be:8080/live/coke123/coke123/21742.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 ACTION
+http://p4.giffy.be:8080/live/coke123/coke123/21741.m3u8
+
+#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
+http://p4.giffy.be:8080/live/coke123/coke123/21739.m3u8
+
+#EXTINF:-1,SKY SPORT NEWS
+http://p4.giffy.be:8080/live/coke123/coke123/21732.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 NEWS HD
+http://p4.giffy.be:8080/live/coke123/coke123/21737.m3u8
+
+#EXTINF:-1,SKY SPOR.m3u8 HD ARENA
+http://p4.giffy.be:8080/live/coke123/coke123/26075.m3u8
+
+#EXTINF:-1,US | ANIMAL PLANET HD
+http://p4.giffy.be:8080/live/coke123/coke123/20989.m3u8
+
+#EXTINF:-1,US | BBC AMERICA HD
+http://p4.giffy.be:8080/live/coke123/coke123/20977.m3u8
+
+#EXTINF:-1,US | E! HD
+http://p4.giffy.be:8080/live/coke123/coke123/20704.m3u8
+
+#EXTINF:-1,US | HALLMARK HD
+http://p4.giffy.be:8080/live/coke123/coke123/29987.m3u8
+
+#EXTINF:-1,US | IFC HD
+http://p4.giffy.be:8080/live/coke123/coke123/20960.m3u8
+
+#EXTINF:-1,US | NAT GEO HD
+http://p4.giffy.be:8080/live/coke123/coke123/20982.m3u8
+
+#EXTINF:-1,US | SPIKE HD
+http://p4.giffy.be:8080/live/coke123/coke123/20943.m3u8
+
+#EXTINF:-1,US | TLC HD
+http://p4.giffy.be:8080/live/coke123/coke123/26543.m3u8
+
+#EXTINF:-1,US | USA NETWORK HD
+http://p4.giffy.be:8080/live/coke123/coke123/20944.m3u8
+
+#EXTINF:-1,US | WEATHER HD
+http://p4.giffy.be:8080/live/coke123/coke123/23193.m3u8
+
+#EXTINF:-1,US | CNN  HD
+http://p4.giffy.be:8080/live/coke123/coke123/29026.m3u8
+
+#EXTINF:-1,US | BLOOMBERG HD
+https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,ABC SPARK HD
+http://p4.giffy.be:8080/live/coke123/coke123/22582.m3u8
+
+#EXTINF:-1,DISNEY HD CA
+http://p4.giffy.be:8080/live/coke123/coke123/20728.m3u8
+
+#EXTINF:-1,DISNEY JR CA
+http://p4.giffy.be:8080/live/coke123/coke123/20727.m3u8
+
+#EXTINF:-1,FAMILY HD  CA
+http://p4.giffy.be:8080/live/coke123/coke123/20731.m3u8
